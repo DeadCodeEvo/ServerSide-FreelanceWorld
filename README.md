@@ -1,4 +1,4 @@
-# Backend-EzLabor
+# Backend-FreelanceWorld
 Restful API with Spring Boot
 
 ## Integrantes:
